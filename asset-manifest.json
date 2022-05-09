@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-my-canal-mini/static/css/main.216953eb.css",
-    "main.js": "/react-my-canal-mini/static/js/main.dab5ff02.js",
+    "main.js": "/react-my-canal-mini/static/js/main.da259513.js",
     "static/js/787.764aab08.chunk.js": "/react-my-canal-mini/static/js/787.764aab08.chunk.js",
     "static/media/home-bg.png": "/react-my-canal-mini/static/media/home-bg.4e815efd2d51f3224330.png",
     "static/media/Angeline_Vintage.ttf": "/react-my-canal-mini/static/media/Angeline_Vintage.ebfe692eec978f8a278e.ttf",
@@ -12,11 +12,11 @@
     "static/media/noimg.png": "/react-my-canal-mini/static/media/noimg.8254f6a3eb81ae29ad3d.png",
     "index.html": "/react-my-canal-mini/index.html",
     "main.216953eb.css.map": "/react-my-canal-mini/static/css/main.216953eb.css.map",
-    "main.dab5ff02.js.map": "/react-my-canal-mini/static/js/main.dab5ff02.js.map",
+    "main.da259513.js.map": "/react-my-canal-mini/static/js/main.da259513.js.map",
     "787.764aab08.chunk.js.map": "/react-my-canal-mini/static/js/787.764aab08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.216953eb.css",
-    "static/js/main.dab5ff02.js"
+    "static/js/main.da259513.js"
   ]
 }
