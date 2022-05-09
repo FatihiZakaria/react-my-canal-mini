@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-my-canal-mini/static/css/main.216953eb.css",
+    "main.js": "/react-my-canal-mini/static/js/main.dab5ff02.js",
+    "static/js/787.764aab08.chunk.js": "/react-my-canal-mini/static/js/787.764aab08.chunk.js",
+    "static/media/home-bg.png": "/react-my-canal-mini/static/media/home-bg.4e815efd2d51f3224330.png",
+    "static/media/Angeline_Vintage.ttf": "/react-my-canal-mini/static/media/Angeline_Vintage.ebfe692eec978f8a278e.ttf",
+    "static/media/Montserrat-Bold.ttf": "/react-my-canal-mini/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
+    "static/media/logo.png": "/react-my-canal-mini/static/media/logo.7ce2705aa68b28d451ca.png",
+    "static/media/Roboto-Italic.ttf": "/react-my-canal-mini/static/media/Roboto-Italic.7c3d3d7f355bf68be5e2.ttf",
+    "static/media/Roboto-Regular.ttf": "/react-my-canal-mini/static/media/Roboto-Regular.04b605aa85f24816e3e6.ttf",
+    "static/media/noimg.png": "/react-my-canal-mini/static/media/noimg.8254f6a3eb81ae29ad3d.png",
+    "index.html": "/react-my-canal-mini/index.html",
+    "main.216953eb.css.map": "/react-my-canal-mini/static/css/main.216953eb.css.map",
+    "main.dab5ff02.js.map": "/react-my-canal-mini/static/js/main.dab5ff02.js.map",
+    "787.764aab08.chunk.js.map": "/react-my-canal-mini/static/js/787.764aab08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.216953eb.css",
+    "static/js/main.dab5ff02.js"
+  ]
+}
